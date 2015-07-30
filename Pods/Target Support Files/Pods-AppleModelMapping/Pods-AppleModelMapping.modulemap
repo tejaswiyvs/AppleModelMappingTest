@@ -1,0 +1,6 @@
+framework module Pods_AppleModelMapping {
+  umbrella header "Pods-AppleModelMapping-umbrella.h"
+
+  export *
+  module * { export * }
+}

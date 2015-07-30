@@ -7,19 +7,23 @@
 //
 
 import UIKit
+import OCMapper
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        let path = NSBundle.mainBundle().pathForResource("response", ofType: "json")
+        let data = NSData(contentsOfFile: path!)
+        var dictionary: NSDictionary
+        do {
+            dictionary = try NSJSONSerialization.JSONObjectWithData(data!, options: NSJSONReadingOptions(rawValue: 0)) as! NSDictionary
+            let encounter = ObjectMapper.sharedInstance().objectFromSource(dictionary, toInstanceOfClass: Encounter.self) as! Encounter
+            print(encounter)
+        }
+        catch {
+        
+        }
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-
-
 }
 
