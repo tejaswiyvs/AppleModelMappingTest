@@ -40,6 +40,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         }
         let model: Encounter = self.encounters![indexPath.row]
         tableViewCell?.textLabel?.text = model.person?.FirstName
+        tableViewCell?.detailTextLabel?.text = model.doctor?.FirstName
         return tableViewCell!
     }
 }
