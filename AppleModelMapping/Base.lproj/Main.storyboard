@@ -15,11 +15,31 @@
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" translatesAutoresizingMaskIntoConstraints="NO" id="YT2-2P-f2z">
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <connections>
+                                    <outlet property="dataSource" destination="BYZ-38-t0r" id="Mym-J6-H6N"/>
+                                    <outlet property="delegate" destination="BYZ-38-t0r" id="vzl-JD-d8F"/>
+                                </connections>
+                            </tableView>
+                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="YT2-2P-f2z" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="1i2-xM-89L"/>
+                            <constraint firstItem="YT2-2P-f2z" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="5pe-iT-jE6"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="YT2-2P-f2z" secondAttribute="bottom" id="AFN-8C-gnA"/>
+                            <constraint firstAttribute="trailing" secondItem="YT2-2P-f2z" secondAttribute="trailing" id="KSj-5r-Xk2"/>
+                        </constraints>
                     </view>
+                    <connections>
+                        <outlet property="tableView" destination="YT2-2P-f2z" id="Zxf-q8-zHY"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="1005" y="707"/>
         </scene>
     </scenes>
 </document>

@@ -9,7 +9,10 @@
 import UIKit
 import OCMapper
 
-class ViewController: UIViewController {
+class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
+    
+    @IBOutlet var tableView: UITableView?
+    var encounters: Array<Encounter>?
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -19,12 +22,25 @@ class ViewController: UIViewController {
         do {
             dictionary = try NSJSONSerialization.JSONObjectWithData(data!, options: NSJSONReadingOptions(rawValue: 0)) as! NSDictionary
             let array = dictionary["value"]
-            let encounters = ObjectMapper.sharedInstance().objectFromSource(array, toInstanceOfClass: Encounter.self) as! [Encounter]
-            print(encounters)
+            self.encounters = ObjectMapper.sharedInstance().objectFromSource(array, toInstanceOfClass: Encounter.self) as? [Encounter]
         }
         catch {
         
         }
+    }
+    
+    func tableView(tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+        return (encounters == nil) ? 0 : encounters!.count
+    }
+    
+    func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
+        var tableViewCell = tableView.dequeueReusableCellWithIdentifier("reuseId")
+        if tableViewCell == nil {
+            tableViewCell = UITableViewCell(style: UITableViewCellStyle.Subtitle, reuseIdentifier: "reuseId")
+        }
+        let model: Encounter = self.encounters![indexPath.row]
+        tableViewCell?.textLabel?.text = model.person?.FirstName
+        return tableViewCell!
     }
 }
 
