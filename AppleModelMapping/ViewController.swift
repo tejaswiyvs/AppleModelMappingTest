@@ -18,8 +18,9 @@ class ViewController: UIViewController {
         var dictionary: NSDictionary
         do {
             dictionary = try NSJSONSerialization.JSONObjectWithData(data!, options: NSJSONReadingOptions(rawValue: 0)) as! NSDictionary
-            let encounter = ObjectMapper.sharedInstance().objectFromSource(dictionary, toInstanceOfClass: Encounter.self) as! Encounter
-            print(encounter)
+            let array = dictionary["value"]
+            let encounters = ObjectMapper.sharedInstance().objectFromSource(array, toInstanceOfClass: Encounter.self) as! [Encounter]
+            print(encounters)
         }
         catch {
         
