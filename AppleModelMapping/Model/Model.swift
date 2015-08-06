@@ -12,6 +12,15 @@ class Doctor: NSObject {
     var DoctorId: String?
     var FirstName: String?
     var LastName: String?
+    var doctorSpecialties: [DoctorSpecialties]?
+}
+
+class DoctorSpecialties : NSObject {
+    var specialty: Specialty?
+}
+
+class Specialty : NSObject {
+    var SpecialtyName: String?
 }
 
 class Address: NSObject {
