@@ -1,0 +1,1202 @@
+ [
+  {
+  "DoctorId": "af7fb1c1-ca01-42a6-85e3-125f5e815647",
+  "FirstName": "Nicklaus Children's",
+  "LastName": "NICU Nurse",
+  "Rate": 100,
+  "DoctorAvailability": [
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T08:30:00",
+                         "EndDateTime": "2015-08-21T09:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T09:00:00",
+                         "EndDateTime": "2015-08-21T09:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T09:30:00",
+                         "EndDateTime": "2015-08-21T10:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T10:00:00",
+                         "EndDateTime": "2015-08-21T10:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T10:30:00",
+                         "EndDateTime": "2015-08-21T11:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T11:00:00",
+                         "EndDateTime": "2015-08-21T11:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T11:30:00",
+                         "EndDateTime": "2015-08-21T12:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T12:00:00",
+                         "EndDateTime": "2015-08-21T12:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T12:30:00",
+                         "EndDateTime": "2015-08-21T13:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T13:00:00",
+                         "EndDateTime": "2015-08-21T13:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T13:30:00",
+                         "EndDateTime": "2015-08-21T14:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T14:00:00",
+                         "EndDateTime": "2015-08-21T14:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T14:30:00",
+                         "EndDateTime": "2015-08-21T15:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T15:00:00",
+                         "EndDateTime": "2015-08-21T15:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T15:30:00",
+                         "EndDateTime": "2015-08-21T16:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T16:00:00",
+                         "EndDateTime": "2015-08-21T16:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T16:30:00",
+                         "EndDateTime": "2015-08-21T17:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T17:00:00",
+                         "EndDateTime": "2015-08-21T17:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T17:30:00",
+                         "EndDateTime": "2015-08-21T18:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T18:00:00",
+                         "EndDateTime": "2015-08-21T18:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T18:30:00",
+                         "EndDateTime": "2015-08-21T19:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T19:00:00",
+                         "EndDateTime": "2015-08-21T19:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T19:30:00",
+                         "EndDateTime": "2015-08-21T20:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T20:00:00",
+                         "EndDateTime": "2015-08-21T20:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T20:30:00",
+                         "EndDateTime": "2015-08-21T21:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T21:00:00",
+                         "EndDateTime": "2015-08-21T21:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T21:30:00",
+                         "EndDateTime": "2015-08-21T22:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T22:00:00",
+                         "EndDateTime": "2015-08-21T22:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T22:30:00",
+                         "EndDateTime": "2015-08-21T23:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T23:00:00",
+                         "EndDateTime": "2015-08-21T23:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T23:30:00",
+                         "EndDateTime": "2015-08-22T00:00:00",
+                         "Status": "N"
+                         }
+                         ],
+  "Speciality": [
+                 {
+                 "SpecialtyId": "18079343-2e5c-4c77-aac0-ddebad7ad087",
+                 "SpecialtyName": "NICU Nurse"
+                 }
+                 ]
+  },
+  {
+  "DoctorId": "7972c3d9-06cf-4232-a3c8-47d12f0e0508",
+  "FirstName": "Doctor4",
+  "LastName": "A",
+  "Rate": 100,
+  "DoctorAvailability": [
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T08:30:00",
+                         "EndDateTime": "2015-08-21T09:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T09:00:00",
+                         "EndDateTime": "2015-08-21T09:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T09:30:00",
+                         "EndDateTime": "2015-08-21T10:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T10:00:00",
+                         "EndDateTime": "2015-08-21T10:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T10:30:00",
+                         "EndDateTime": "2015-08-21T11:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T11:00:00",
+                         "EndDateTime": "2015-08-21T11:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T11:30:00",
+                         "EndDateTime": "2015-08-21T12:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T12:00:00",
+                         "EndDateTime": "2015-08-21T12:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T12:30:00",
+                         "EndDateTime": "2015-08-21T13:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T13:00:00",
+                         "EndDateTime": "2015-08-21T13:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T13:30:00",
+                         "EndDateTime": "2015-08-21T14:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T14:00:00",
+                         "EndDateTime": "2015-08-21T14:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T14:30:00",
+                         "EndDateTime": "2015-08-21T15:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T15:00:00",
+                         "EndDateTime": "2015-08-21T15:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T15:30:00",
+                         "EndDateTime": "2015-08-21T16:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T16:00:00",
+                         "EndDateTime": "2015-08-21T16:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T16:30:00",
+                         "EndDateTime": "2015-08-21T17:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T17:00:00",
+                         "EndDateTime": "2015-08-21T17:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T17:30:00",
+                         "EndDateTime": "2015-08-21T18:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T18:00:00",
+                         "EndDateTime": "2015-08-21T18:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T18:30:00",
+                         "EndDateTime": "2015-08-21T19:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T19:00:00",
+                         "EndDateTime": "2015-08-21T19:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T19:30:00",
+                         "EndDateTime": "2015-08-21T20:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T20:00:00",
+                         "EndDateTime": "2015-08-21T20:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T20:30:00",
+                         "EndDateTime": "2015-08-21T21:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T21:00:00",
+                         "EndDateTime": "2015-08-21T21:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T21:30:00",
+                         "EndDateTime": "2015-08-21T22:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T22:00:00",
+                         "EndDateTime": "2015-08-21T22:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T22:30:00",
+                         "EndDateTime": "2015-08-21T23:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T23:00:00",
+                         "EndDateTime": "2015-08-21T23:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T23:30:00",
+                         "EndDateTime": "2015-08-22T00:00:00",
+                         "Status": "N"
+                         }
+                         ],
+  "Speciality": [
+                 {
+                 "SpecialtyId": "acd47ee6-5540-4349-9928-39f435100a5f",
+                 "SpecialtyName": "Pediatrics"
+                 }
+                 ]
+  },
+  {
+  "DoctorId": "70f87e3f-d8e1-43b3-9b7d-57159f0a219d",
+  "FirstName": "Nicklaus Children's",
+  "LastName": "Physician",
+  "Rate": 50,
+  "DoctorAvailability": [
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T08:30:00",
+                         "EndDateTime": "2015-08-21T09:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T09:00:00",
+                         "EndDateTime": "2015-08-21T09:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T09:30:00",
+                         "EndDateTime": "2015-08-21T10:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T10:00:00",
+                         "EndDateTime": "2015-08-21T10:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T10:30:00",
+                         "EndDateTime": "2015-08-21T11:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T11:00:00",
+                         "EndDateTime": "2015-08-21T11:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T11:30:00",
+                         "EndDateTime": "2015-08-21T12:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T12:00:00",
+                         "EndDateTime": "2015-08-21T12:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T12:30:00",
+                         "EndDateTime": "2015-08-21T13:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T13:00:00",
+                         "EndDateTime": "2015-08-21T13:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T13:30:00",
+                         "EndDateTime": "2015-08-21T14:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T14:00:00",
+                         "EndDateTime": "2015-08-21T14:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T14:30:00",
+                         "EndDateTime": "2015-08-21T15:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T15:00:00",
+                         "EndDateTime": "2015-08-21T15:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T15:30:00",
+                         "EndDateTime": "2015-08-21T16:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T16:00:00",
+                         "EndDateTime": "2015-08-21T16:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T16:30:00",
+                         "EndDateTime": "2015-08-21T17:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T17:00:00",
+                         "EndDateTime": "2015-08-21T17:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T17:30:00",
+                         "EndDateTime": "2015-08-21T18:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T18:00:00",
+                         "EndDateTime": "2015-08-21T18:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T18:30:00",
+                         "EndDateTime": "2015-08-21T19:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T19:00:00",
+                         "EndDateTime": "2015-08-21T19:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T19:30:00",
+                         "EndDateTime": "2015-08-21T20:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T20:00:00",
+                         "EndDateTime": "2015-08-21T20:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T20:30:00",
+                         "EndDateTime": "2015-08-21T21:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T21:00:00",
+                         "EndDateTime": "2015-08-21T21:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T21:30:00",
+                         "EndDateTime": "2015-08-21T22:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T22:00:00",
+                         "EndDateTime": "2015-08-21T22:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T22:30:00",
+                         "EndDateTime": "2015-08-21T23:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T23:00:00",
+                         "EndDateTime": "2015-08-21T23:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T23:30:00",
+                         "EndDateTime": "2015-08-22T00:00:00",
+                         "Status": "N"
+                         }
+                         ],
+  "Speciality": [
+                 {
+                 "SpecialtyId": "acd47ee6-5540-4349-9928-39f435100a5f",
+                 "SpecialtyName": "Pediatrics"
+                 }
+                 ]
+  },
+  {
+  "DoctorId": "8597a60c-4611-4db4-87a7-a82a8c4be7ea",
+  "FirstName": "Doctor5",
+  "LastName": "G",
+  "Rate": 400,
+  "DoctorAvailability": [
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T08:30:00",
+                         "EndDateTime": "2015-08-21T09:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T09:00:00",
+                         "EndDateTime": "2015-08-21T09:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T09:30:00",
+                         "EndDateTime": "2015-08-21T10:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T10:00:00",
+                         "EndDateTime": "2015-08-21T10:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T10:30:00",
+                         "EndDateTime": "2015-08-21T11:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T11:00:00",
+                         "EndDateTime": "2015-08-21T11:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T11:30:00",
+                         "EndDateTime": "2015-08-21T12:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T12:00:00",
+                         "EndDateTime": "2015-08-21T12:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T12:30:00",
+                         "EndDateTime": "2015-08-21T13:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T13:00:00",
+                         "EndDateTime": "2015-08-21T13:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T13:30:00",
+                         "EndDateTime": "2015-08-21T14:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T14:00:00",
+                         "EndDateTime": "2015-08-21T14:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T14:30:00",
+                         "EndDateTime": "2015-08-21T15:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T15:00:00",
+                         "EndDateTime": "2015-08-21T15:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T15:30:00",
+                         "EndDateTime": "2015-08-21T16:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T16:00:00",
+                         "EndDateTime": "2015-08-21T16:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T16:30:00",
+                         "EndDateTime": "2015-08-21T17:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T17:00:00",
+                         "EndDateTime": "2015-08-21T17:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T17:30:00",
+                         "EndDateTime": "2015-08-21T18:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T18:00:00",
+                         "EndDateTime": "2015-08-21T18:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T18:30:00",
+                         "EndDateTime": "2015-08-21T19:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T19:00:00",
+                         "EndDateTime": "2015-08-21T19:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T19:30:00",
+                         "EndDateTime": "2015-08-21T20:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T20:00:00",
+                         "EndDateTime": "2015-08-21T20:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T20:30:00",
+                         "EndDateTime": "2015-08-21T21:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T21:00:00",
+                         "EndDateTime": "2015-08-21T21:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T21:30:00",
+                         "EndDateTime": "2015-08-21T22:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T22:00:00",
+                         "EndDateTime": "2015-08-21T22:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T22:30:00",
+                         "EndDateTime": "2015-08-21T23:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T23:00:00",
+                         "EndDateTime": "2015-08-21T23:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T23:30:00",
+                         "EndDateTime": "2015-08-22T00:00:00",
+                         "Status": "N"
+                         }
+                         ],
+  "Speciality": [
+                 {
+                 "SpecialtyId": "acd47ee6-5540-4349-9928-39f435100a5f",
+                 "SpecialtyName": "Pediatrics"
+                 }
+                 ]
+  },
+  {
+  "DoctorId": "52a85e26-c12d-48c8-b235-ae755496724a",
+  "FirstName": "Doctor3",
+  "LastName": "A",
+  "Rate": 200,
+  "DoctorAvailability": [
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T08:30:00",
+                         "EndDateTime": "2015-08-21T09:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T09:00:00",
+                         "EndDateTime": "2015-08-21T09:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T09:30:00",
+                         "EndDateTime": "2015-08-21T10:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T10:00:00",
+                         "EndDateTime": "2015-08-21T10:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T10:30:00",
+                         "EndDateTime": "2015-08-21T11:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T11:00:00",
+                         "EndDateTime": "2015-08-21T11:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T11:30:00",
+                         "EndDateTime": "2015-08-21T12:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T12:00:00",
+                         "EndDateTime": "2015-08-21T12:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T12:30:00",
+                         "EndDateTime": "2015-08-21T13:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T13:00:00",
+                         "EndDateTime": "2015-08-21T13:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T13:30:00",
+                         "EndDateTime": "2015-08-21T14:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T14:00:00",
+                         "EndDateTime": "2015-08-21T14:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T14:30:00",
+                         "EndDateTime": "2015-08-21T15:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T15:00:00",
+                         "EndDateTime": "2015-08-21T15:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T15:30:00",
+                         "EndDateTime": "2015-08-21T16:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T16:00:00",
+                         "EndDateTime": "2015-08-21T16:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T16:30:00",
+                         "EndDateTime": "2015-08-21T17:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T17:00:00",
+                         "EndDateTime": "2015-08-21T17:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T17:30:00",
+                         "EndDateTime": "2015-08-21T18:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T18:00:00",
+                         "EndDateTime": "2015-08-21T18:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T18:30:00",
+                         "EndDateTime": "2015-08-21T19:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T19:00:00",
+                         "EndDateTime": "2015-08-21T19:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T19:30:00",
+                         "EndDateTime": "2015-08-21T20:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T20:00:00",
+                         "EndDateTime": "2015-08-21T20:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T20:30:00",
+                         "EndDateTime": "2015-08-21T21:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T21:00:00",
+                         "EndDateTime": "2015-08-21T21:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T21:30:00",
+                         "EndDateTime": "2015-08-21T22:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T22:00:00",
+                         "EndDateTime": "2015-08-21T22:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T22:30:00",
+                         "EndDateTime": "2015-08-21T23:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T23:00:00",
+                         "EndDateTime": "2015-08-21T23:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T23:30:00",
+                         "EndDateTime": "2015-08-22T00:00:00",
+                         "Status": "N"
+                         }
+                         ],
+  "Speciality": [
+                 {
+                 "SpecialtyId": "acd47ee6-5540-4349-9928-39f435100a5f",
+                 "SpecialtyName": "Pediatrics"
+                 }
+                 ]
+  },
+  {
+  "DoctorId": "1d4c6c19-921e-4669-9f88-f8c774a45531",
+  "FirstName": "Doctor1",
+  "LastName": "A",
+  "Rate": 100,
+  "DoctorAvailability": [
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T08:30:00",
+                         "EndDateTime": "2015-08-21T09:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T09:00:00",
+                         "EndDateTime": "2015-08-21T09:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T09:30:00",
+                         "EndDateTime": "2015-08-21T10:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T10:00:00",
+                         "EndDateTime": "2015-08-21T10:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T10:30:00",
+                         "EndDateTime": "2015-08-21T11:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T11:00:00",
+                         "EndDateTime": "2015-08-21T11:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T11:30:00",
+                         "EndDateTime": "2015-08-21T12:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T12:00:00",
+                         "EndDateTime": "2015-08-21T12:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T12:30:00",
+                         "EndDateTime": "2015-08-21T13:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T13:00:00",
+                         "EndDateTime": "2015-08-21T13:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T13:30:00",
+                         "EndDateTime": "2015-08-21T14:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T14:00:00",
+                         "EndDateTime": "2015-08-21T14:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T14:30:00",
+                         "EndDateTime": "2015-08-21T15:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T15:00:00",
+                         "EndDateTime": "2015-08-21T15:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T15:30:00",
+                         "EndDateTime": "2015-08-21T16:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T16:00:00",
+                         "EndDateTime": "2015-08-21T16:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T16:30:00",
+                         "EndDateTime": "2015-08-21T17:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T17:00:00",
+                         "EndDateTime": "2015-08-21T17:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T17:30:00",
+                         "EndDateTime": "2015-08-21T18:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T18:00:00",
+                         "EndDateTime": "2015-08-21T18:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T18:30:00",
+                         "EndDateTime": "2015-08-21T19:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T19:00:00",
+                         "EndDateTime": "2015-08-21T19:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T19:30:00",
+                         "EndDateTime": "2015-08-21T20:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T20:00:00",
+                         "EndDateTime": "2015-08-21T20:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T20:30:00",
+                         "EndDateTime": "2015-08-21T21:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T21:00:00",
+                         "EndDateTime": "2015-08-21T21:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T21:30:00",
+                         "EndDateTime": "2015-08-21T22:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T22:00:00",
+                         "EndDateTime": "2015-08-21T22:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T22:30:00",
+                         "EndDateTime": "2015-08-21T23:00:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T23:00:00",
+                         "EndDateTime": "2015-08-21T23:30:00",
+                         "Status": "N"
+                         },
+                         {
+                         "AvailabilityId": "00000000-0000-0000-0000-000000000000",
+                         "StartDateTime": "2015-08-21T23:30:00",
+                         "EndDateTime": "2015-08-22T00:00:00",
+                         "Status": "N"
+                         }
+                         ],
+  "Speciality": [
+                 {
+                 "SpecialtyId": "acd47ee6-5540-4349-9928-39f435100a5f",
+                 "SpecialtyName": "Pediatrics"
+                 }
+                 ]
+  }
+  ]

@@ -8,10 +8,31 @@
 
 import UIKit
 
+class AppointmentSearchResult : NSObject {
+    var DoctorId: NSString?
+    var FirstName: NSString?
+    var LastName: NSString?
+    var Rate: Int?
+    var DoctorAvailability: [Availability]?
+}
+
+class Availability : NSObject {
+    var AvailabilityId: NSString?
+    var StartDateTime: NSString?
+    var EndDateTime: NSString?
+    var Status: NSString?
+}
+
 class Doctor: NSObject {
     var DoctorId: String?
     var FirstName: String?
     var LastName: String?
+    var specialty: [Specialty]?
+}
+
+class Specialty: NSObject {
+    var SpecialtyId: String?
+    var SpecialtyName: String?
 }
 
 class Address: NSObject {

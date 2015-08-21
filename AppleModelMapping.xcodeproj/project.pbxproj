@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1C4134AC3C96FF758A937B6A /* Pods_AppleModelMapping.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A6C153085ED8F1B31A976165 /* Pods_AppleModelMapping.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		B76A9E8C1B8779D600C08114 /* response2.json in Resources */ = {isa = PBXBuildFile; fileRef = B76A9E8B1B8779D600C08114 /* response2.json */; };
 		B7A4190F1B696CFE002C1B7E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7A4190E1B696CFE002C1B7E /* AppDelegate.swift */; };
 		B7A419111B696CFE002C1B7E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7A419101B696CFE002C1B7E /* ViewController.swift */; };
 		B7A419141B696CFE002C1B7E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B7A419121B696CFE002C1B7E /* Main.storyboard */; };
@@ -21,6 +22,7 @@
 		44DD7FF9C6474794F62D4288 /* Pods-AppleModelMapping.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppleModelMapping.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AppleModelMapping/Pods-AppleModelMapping.debug.xcconfig"; sourceTree = "<group>"; };
 		49FD394FDB982DFB7E168544 /* Pods-AppleModelMapping.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppleModelMapping.release.xcconfig"; path = "Pods/Target Support Files/Pods-AppleModelMapping/Pods-AppleModelMapping.release.xcconfig"; sourceTree = "<group>"; };
 		A6C153085ED8F1B31A976165 /* Pods_AppleModelMapping.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AppleModelMapping.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B76A9E8B1B8779D600C08114 /* response2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = response2.json; sourceTree = "<group>"; };
 		B7A4190B1B696CFE002C1B7E /* AppleModelMapping.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppleModelMapping.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7A4190E1B696CFE002C1B7E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B7A419101B696CFE002C1B7E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -90,6 +92,7 @@
 				B7A419151B696CFE002C1B7E /* Assets.xcassets */,
 				B7A419171B696CFE002C1B7E /* LaunchScreen.storyboard */,
 				B7A4191A1B696CFE002C1B7E /* Info.plist */,
+				B76A9E8B1B8779D600C08114 /* response2.json */,
 			);
 			path = AppleModelMapping;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 				B7A419191B696CFE002C1B7E /* LaunchScreen.storyboard in Resources */,
 				B7A419161B696CFE002C1B7E /* Assets.xcassets in Resources */,
 				B7A419141B696CFE002C1B7E /* Main.storyboard in Resources */,
+				B76A9E8C1B8779D600C08114 /* response2.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
